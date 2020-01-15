@@ -1,0 +1,41 @@
+# Javascript Node CircleCI 2.1 configuration file
+#
+#
+#
+version: 2.1
+orbs:
+  framer: framer/bridge@dev:0.0.3
+
+workflows:
+  version: 2.1
+  build-project:
+    triggers:
+      - schedule:
+          cron: "0 8 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - framer/component-import:
+          component-library-package: "ic-snacks"
+          dependant-libraries: ""
+          framer-project-path: "./"
+          color-token-path: "./assets/colors.json"
+          icon-path: "./svg"
+
+  build-and-publish:
+    jobs:
+      - framer/build:
+          framer-project-path: "./"
+          filters:
+            branches:
+              only: master
+      - framer/publish:
+          framer-project-path: "./"
+          framer-package-name: "Snacks Design System"
+          requires:
+            - framer/build
+          filters:
+            branches:
+              only: master
