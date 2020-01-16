@@ -4,20 +4,26 @@
 #
 version: 2.1
 orbs:
-  framer: framer/bridge@dev:0.0.9
+  framer: framer/bridge@dev:0.0.10
 
 workflows:
   version: 2.1
-  build-project:
+  import-components:
+    jobs:
+      - framer/import-components:
+          filters:
+            branches:
+              only: master
+
+  determine-dependency-updates:
     triggers:
       - schedule:
           cron: "0 9 * * *"
           filters:
             branches:
-              only:
-                - master
+              only: master
     jobs:
-      - framer/component-import:
+      - framer/determine-dependency-updates:
           component-library-package: "ic-snacks"
           dependant-libraries: ""
           framer-project-path: "./"
