@@ -13,7 +13,7 @@
 		"displayName": "Snacks"
 	},
 	"name": "@framer/framer.snacks",
-	"version": "1.6.0",
+	"version": "1.7.0",
 	"dependencies": {
 		"ic-snacks": "^0.0.143"
 	}
