@@ -1,26 +1,144 @@
 {
-  "root" : {
-    "__class" : "RootNode",
-    "children" : [
-
-    ],
-    "guidesX" : [
-
-    ],
-    "guidesY" : [
-
-    ],
-    "id" : "zu5Uhp3Uh",
-    "name" : null,
-    "originalid" : null,
-    "parentid" : null,
-    "tokens" : {
-
+  "root": {
+    "__class": "RootNode",
+    "children": [],
+    "guidesX": [],
+    "guidesY": [],
+    "id": "zu5Uhp3Uh",
+    "name": null,
+    "originalid": null,
+    "parentid": null,
+    "tokens": {
+      "1cebc4bc-2156-49a1-be61-abadd98c717a": {
+        "__class": "ColorTokenNode",
+        "id": "1cebc4bc-2156-49a1-be61-abadd98c717a",
+        "name": "GREEN_700",
+        "value": "rgb(23, 125, 5)"
+      },
+      "454ed736-0f8a-43b1-a1fd-5b7c804bc5e8": {
+        "__class": "ColorTokenNode",
+        "id": "454ed736-0f8a-43b1-a1fd-5b7c804bc5e8",
+        "name": "GREEN_600",
+        "value": "rgb(42, 151, 21)"
+      },
+      "c33f29c0-7c62-4626-b3f7-71683ab3f07e": {
+        "__class": "ColorTokenNode",
+        "id": "c33f29c0-7c62-4626-b3f7-71683ab3f07e",
+        "name": "GREEN_500",
+        "value": "rgb(67, 176, 42)"
+      },
+      "f0ce13df-6980-4ef5-898d-6f2f63091ec5": {
+        "__class": "ColorTokenNode",
+        "id": "f0ce13df-6980-4ef5-898d-6f2f63091ec5",
+        "name": "GREEN_400",
+        "value": "rgb(95, 202, 68)"
+      },
+      "2f8d63b8-2715-454b-a848-2a479f1eca9e": {
+        "__class": "ColorTokenNode",
+        "id": "2f8d63b8-2715-454b-a848-2a479f1eca9e",
+        "name": "GREEN_300",
+        "value": "rgb(127, 227, 100)"
+      },
+      "a5222a5e-3609-456f-a208-3fb3644c7d52": {
+        "__class": "ColorTokenNode",
+        "id": "a5222a5e-3609-456f-a208-3fb3644c7d52",
+        "name": "WHITE",
+        "value": "rgb(255, 255, 255)"
+      },
+      "36c7001f-584e-4eb5-994d-da9af9ca132d": {
+        "__class": "ColorTokenNode",
+        "id": "36c7001f-584e-4eb5-994d-da9af9ca132d",
+        "name": "GRAY_97",
+        "value": "rgb(247, 247, 247)"
+      },
+      "65f3d9ed-e700-4473-948c-04354aa88e41": {
+        "__class": "ColorTokenNode",
+        "id": "65f3d9ed-e700-4473-948c-04354aa88e41",
+        "name": "GRAY_93",
+        "value": "rgb(238, 238, 238)"
+      },
+      "ef2fad2e-7f7f-43e5-acf0-4f7caa426fa5": {
+        "__class": "ColorTokenNode",
+        "id": "ef2fad2e-7f7f-43e5-acf0-4f7caa426fa5",
+        "name": "GRAY_88",
+        "value": "rgb(224, 224, 224)"
+      },
+      "8f54142b-e1b4-415e-9f4c-7d62d1d1e9fe": {
+        "__class": "ColorTokenNode",
+        "id": "8f54142b-e1b4-415e-9f4c-7d62d1d1e9fe",
+        "name": "GRAY_74",
+        "value": "rgb(189, 189, 189)"
+      },
+      "63473d69-c4d7-450a-92e4-46d0dd58a6ba": {
+        "__class": "ColorTokenNode",
+        "id": "63473d69-c4d7-450a-92e4-46d0dd58a6ba",
+        "name": "GRAY_46",
+        "value": "rgb(117, 117, 117)"
+      },
+      "c95fbea2-52f0-4103-aed7-e22d5707f243": {
+        "__class": "ColorTokenNode",
+        "id": "c95fbea2-52f0-4103-aed7-e22d5707f243",
+        "name": "GRAY_20",
+        "value": "rgb(66, 66, 66)"
+      },
+      "cd5c10a1-b09b-4aa2-ac1e-de4ae27c0a46": {
+        "__class": "ColorTokenNode",
+        "id": "cd5c10a1-b09b-4aa2-ac1e-de4ae27c0a46",
+        "name": "GRAY_13",
+        "value": "rgb(33, 33, 33)"
+      },
+      "b2d63148-2636-4b8f-9938-0f3ccfa2412f": {
+        "__class": "ColorTokenNode",
+        "id": "b2d63148-2636-4b8f-9938-0f3ccfa2412f",
+        "name": "RED_700",
+        "value": "rgb(179, 0, 41)"
+      },
+      "4b8bde4f-af37-4023-a036-2a9bd6d73375": {
+        "__class": "ColorTokenNode",
+        "id": "4b8bde4f-af37-4023-a036-2a9bd6d73375",
+        "name": "RED_600",
+        "value": "rgb(204, 0, 51)"
+      },
+      "86d41f41-1f33-48a7-9d56-6bcb6e01dbe3": {
+        "__class": "ColorTokenNode",
+        "id": "86d41f41-1f33-48a7-9d56-6bcb6e01dbe3",
+        "name": "RED_500",
+        "value": "rgb(230, 0, 61)"
+      },
+      "f5afd21f-c32d-4754-8e47-65406a87ad47": {
+        "__class": "ColorTokenNode",
+        "id": "f5afd21f-c32d-4754-8e47-65406a87ad47",
+        "name": "RED_400",
+        "value": "rgb(255, 25, 90)"
+      },
+      "0a82e8a4-4ebd-4d11-bf13-3385833e39a9": {
+        "__class": "ColorTokenNode",
+        "id": "0a82e8a4-4ebd-4d11-bf13-3385833e39a9",
+        "name": "RED_300",
+        "value": "rgb(255, 70, 126)"
+      }
     },
-    "tokensIndex" : [
-
+    "tokensIndex": [
+      "1cebc4bc-2156-49a1-be61-abadd98c717a",
+      "454ed736-0f8a-43b1-a1fd-5b7c804bc5e8",
+      "c33f29c0-7c62-4626-b3f7-71683ab3f07e",
+      "f0ce13df-6980-4ef5-898d-6f2f63091ec5",
+      "2f8d63b8-2715-454b-a848-2a479f1eca9e",
+      "a5222a5e-3609-456f-a208-3fb3644c7d52",
+      "36c7001f-584e-4eb5-994d-da9af9ca132d",
+      "65f3d9ed-e700-4473-948c-04354aa88e41",
+      "ef2fad2e-7f7f-43e5-acf0-4f7caa426fa5",
+      "8f54142b-e1b4-415e-9f4c-7d62d1d1e9fe",
+      "63473d69-c4d7-450a-92e4-46d0dd58a6ba",
+      "c95fbea2-52f0-4103-aed7-e22d5707f243",
+      "cd5c10a1-b09b-4aa2-ac1e-de4ae27c0a46",
+      "b2d63148-2636-4b8f-9938-0f3ccfa2412f",
+      "4b8bde4f-af37-4023-a036-2a9bd6d73375",
+      "86d41f41-1f33-48a7-9d56-6bcb6e01dbe3",
+      "f5afd21f-c32d-4754-8e47-65406a87ad47",
+      "0a82e8a4-4ebd-4d11-bf13-3385833e39a9"
     ],
-    "visible" : false
+    "visible": false
   },
-  "version" : 55
+  "version": 55
 }
