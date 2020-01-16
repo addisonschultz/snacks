@@ -8,10 +8,13 @@
 		"framer": "^1.0",
 		"react": "^16.8"
 	},
+	"author": "Addison Schultz",
 	"framer": {
+		"displayName": "Snacks",
 		"id": "5e4cdb9a-3ec0-43da-ad87-f346268a38c4"
 	},
-	"author": "Addison Schultz",
+	"name": "@framer/framer.snacks",
+	"version": "1.0.0",
 	"dependencies": {
 		"ic-snacks": "^0.0.143"
 	}
