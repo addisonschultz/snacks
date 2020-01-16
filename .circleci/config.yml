@@ -4,13 +4,18 @@
 #
 version: 2.1
 orbs:
-  framer: framer/bridge@dev:0.0.10
+  framer: framer/bridge@dev:0.0.11
 
 workflows:
   version: 2.1
   import-components:
     jobs:
       - framer/import-components:
+          component-library-package: "ic-snacks"
+          dependant-libraries: ""
+          framer-project-path: "./"
+          color-token-path: "./assets/colors.json"
+          icon-path: "./svg"
           filters:
             branches:
               only: master
