@@ -4,14 +4,14 @@
 #
 version: 2.1
 orbs:
-  framer: framer/bridge@dev:0.0.5
+  framer: framer/bridge@dev:0.0.6
 
 workflows:
   version: 2.1
   build-project:
     triggers:
       - schedule:
-          cron: "0 8 * * *"
+          cron: "0 9 * * *"
           filters:
             branches:
               only:
