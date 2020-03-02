@@ -9,134 +9,134 @@
     "originalid": null,
     "parentid": null,
     "tokens": {
-      "6d32a908-9e49-480c-b548-be5ee20fe4ea": {
+      "68c14508-007a-4fce-b33a-ecd77e36bcc1": {
         "__class": "ColorTokenNode",
-        "id": "6d32a908-9e49-480c-b548-be5ee20fe4ea",
+        "id": "68c14508-007a-4fce-b33a-ecd77e36bcc1",
         "name": "GREEN_700",
         "value": "rgb(23, 125, 5)"
       },
-      "6a60f7e0-ad06-4999-9e4c-cb8078893d9e": {
+      "fdedf7fa-c9e5-4e0f-9deb-eb13b189a6c7": {
         "__class": "ColorTokenNode",
-        "id": "6a60f7e0-ad06-4999-9e4c-cb8078893d9e",
+        "id": "fdedf7fa-c9e5-4e0f-9deb-eb13b189a6c7",
         "name": "GREEN_600",
         "value": "rgb(42, 151, 21)"
       },
-      "c93bd622-4f56-4aa4-bf64-53b063eb911d": {
+      "aa382058-2bce-41a3-9164-a49aab6aaac1": {
         "__class": "ColorTokenNode",
-        "id": "c93bd622-4f56-4aa4-bf64-53b063eb911d",
+        "id": "aa382058-2bce-41a3-9164-a49aab6aaac1",
         "name": "GREEN_500",
         "value": "rgb(67, 176, 42)"
       },
-      "50677368-99b5-463d-a2d3-97dfbce2954f": {
+      "4fc780ec-9eda-49ac-ab8d-5d55c0c8cc3f": {
         "__class": "ColorTokenNode",
-        "id": "50677368-99b5-463d-a2d3-97dfbce2954f",
+        "id": "4fc780ec-9eda-49ac-ab8d-5d55c0c8cc3f",
         "name": "GREEN_400",
         "value": "rgb(95, 202, 68)"
       },
-      "fb77015f-a582-4960-bc41-a404b972b509": {
+      "0250a77f-34a0-4507-851d-b05dc6b57813": {
         "__class": "ColorTokenNode",
-        "id": "fb77015f-a582-4960-bc41-a404b972b509",
+        "id": "0250a77f-34a0-4507-851d-b05dc6b57813",
         "name": "GREEN_300",
         "value": "rgb(127, 227, 100)"
       },
-      "f822caa1-e5cf-488d-b04e-bce8e350d7a1": {
+      "d47967df-58be-4b48-91a4-4f5d69c37cb6": {
         "__class": "ColorTokenNode",
-        "id": "f822caa1-e5cf-488d-b04e-bce8e350d7a1",
+        "id": "d47967df-58be-4b48-91a4-4f5d69c37cb6",
         "name": "WHITE",
         "value": "rgb(255, 255, 255)"
       },
-      "e5879970-96cb-4fab-99d2-069250dabd81": {
+      "ab93e144-cd5e-497a-b73d-e19498748bea": {
         "__class": "ColorTokenNode",
-        "id": "e5879970-96cb-4fab-99d2-069250dabd81",
+        "id": "ab93e144-cd5e-497a-b73d-e19498748bea",
         "name": "GRAY_97",
         "value": "rgb(247, 247, 247)"
       },
-      "0eaa9bee-070a-4b20-b25c-ec9303ca5821": {
+      "1e05349a-2f0f-4371-a4a7-d07105c8b155": {
         "__class": "ColorTokenNode",
-        "id": "0eaa9bee-070a-4b20-b25c-ec9303ca5821",
+        "id": "1e05349a-2f0f-4371-a4a7-d07105c8b155",
         "name": "GRAY_93",
         "value": "rgb(238, 238, 238)"
       },
-      "03a8fa30-74ab-4cc5-94cc-75d8457d9ab9": {
+      "99a9cd65-cabe-4b8b-8de2-065b6454246f": {
         "__class": "ColorTokenNode",
-        "id": "03a8fa30-74ab-4cc5-94cc-75d8457d9ab9",
+        "id": "99a9cd65-cabe-4b8b-8de2-065b6454246f",
         "name": "GRAY_88",
         "value": "rgb(224, 224, 224)"
       },
-      "ad2d8897-fb46-439f-9f8b-47060951219e": {
+      "4e464bf5-5bd5-43c1-aa06-981a4702bd33": {
         "__class": "ColorTokenNode",
-        "id": "ad2d8897-fb46-439f-9f8b-47060951219e",
+        "id": "4e464bf5-5bd5-43c1-aa06-981a4702bd33",
         "name": "GRAY_74",
         "value": "rgb(189, 189, 189)"
       },
-      "996e745f-ad3a-4bc1-af03-cec783027137": {
+      "2bdbe868-f37a-496a-a920-f8a4bf24fe37": {
         "__class": "ColorTokenNode",
-        "id": "996e745f-ad3a-4bc1-af03-cec783027137",
+        "id": "2bdbe868-f37a-496a-a920-f8a4bf24fe37",
         "name": "GRAY_46",
         "value": "rgb(117, 117, 117)"
       },
-      "b6b1e78d-6da8-4d95-a508-a6e33cd6ab01": {
+      "c8a6709c-e2dc-4ff9-865f-98ee1f42ae1a": {
         "__class": "ColorTokenNode",
-        "id": "b6b1e78d-6da8-4d95-a508-a6e33cd6ab01",
+        "id": "c8a6709c-e2dc-4ff9-865f-98ee1f42ae1a",
         "name": "GRAY_20",
         "value": "rgb(66, 66, 66)"
       },
-      "5454b810-b863-4336-b000-942b27efce53": {
+      "78585870-7c0e-441e-9d62-9f63b0a688e1": {
         "__class": "ColorTokenNode",
-        "id": "5454b810-b863-4336-b000-942b27efce53",
+        "id": "78585870-7c0e-441e-9d62-9f63b0a688e1",
         "name": "GRAY_13",
         "value": "rgb(33, 33, 33)"
       },
-      "08a4f706-1601-48f4-a09d-daaeee803f04": {
+      "d0a14130-9f1a-43a7-a6df-eb68d6dcc6b1": {
         "__class": "ColorTokenNode",
-        "id": "08a4f706-1601-48f4-a09d-daaeee803f04",
+        "id": "d0a14130-9f1a-43a7-a6df-eb68d6dcc6b1",
         "name": "RED_700",
         "value": "rgb(179, 0, 41)"
       },
-      "f6e47ce8-3aa4-44bd-a115-921babe4c275": {
+      "fd011f82-a02b-4d1d-bb45-52eb9bc8c614": {
         "__class": "ColorTokenNode",
-        "id": "f6e47ce8-3aa4-44bd-a115-921babe4c275",
+        "id": "fd011f82-a02b-4d1d-bb45-52eb9bc8c614",
         "name": "RED_600",
         "value": "rgb(204, 0, 51)"
       },
-      "67e08cf7-238f-4d3d-a14b-42b4797c75e7": {
+      "aaaf71e3-a7d2-4e12-917d-a9237075784c": {
         "__class": "ColorTokenNode",
-        "id": "67e08cf7-238f-4d3d-a14b-42b4797c75e7",
+        "id": "aaaf71e3-a7d2-4e12-917d-a9237075784c",
         "name": "RED_500",
         "value": "rgb(230, 0, 61)"
       },
-      "c7570339-9ab8-4c20-873a-e71639081ffa": {
+      "0b85bd89-84a1-40a0-8b1f-ad58e4737406": {
         "__class": "ColorTokenNode",
-        "id": "c7570339-9ab8-4c20-873a-e71639081ffa",
+        "id": "0b85bd89-84a1-40a0-8b1f-ad58e4737406",
         "name": "RED_400",
         "value": "rgb(255, 25, 90)"
       },
-      "48120a0e-d936-445a-abc7-06bd6f59a566": {
+      "473a08a8-798c-4172-8a8e-b643b43b1c9d": {
         "__class": "ColorTokenNode",
-        "id": "48120a0e-d936-445a-abc7-06bd6f59a566",
+        "id": "473a08a8-798c-4172-8a8e-b643b43b1c9d",
         "name": "RED_300",
         "value": "rgb(255, 70, 126)"
       }
     },
     "tokensIndex": [
-      "6d32a908-9e49-480c-b548-be5ee20fe4ea",
-      "6a60f7e0-ad06-4999-9e4c-cb8078893d9e",
-      "c93bd622-4f56-4aa4-bf64-53b063eb911d",
-      "50677368-99b5-463d-a2d3-97dfbce2954f",
-      "fb77015f-a582-4960-bc41-a404b972b509",
-      "f822caa1-e5cf-488d-b04e-bce8e350d7a1",
-      "e5879970-96cb-4fab-99d2-069250dabd81",
-      "0eaa9bee-070a-4b20-b25c-ec9303ca5821",
-      "03a8fa30-74ab-4cc5-94cc-75d8457d9ab9",
-      "ad2d8897-fb46-439f-9f8b-47060951219e",
-      "996e745f-ad3a-4bc1-af03-cec783027137",
-      "b6b1e78d-6da8-4d95-a508-a6e33cd6ab01",
-      "5454b810-b863-4336-b000-942b27efce53",
-      "08a4f706-1601-48f4-a09d-daaeee803f04",
-      "f6e47ce8-3aa4-44bd-a115-921babe4c275",
-      "67e08cf7-238f-4d3d-a14b-42b4797c75e7",
-      "c7570339-9ab8-4c20-873a-e71639081ffa",
-      "48120a0e-d936-445a-abc7-06bd6f59a566"
+      "68c14508-007a-4fce-b33a-ecd77e36bcc1",
+      "fdedf7fa-c9e5-4e0f-9deb-eb13b189a6c7",
+      "aa382058-2bce-41a3-9164-a49aab6aaac1",
+      "4fc780ec-9eda-49ac-ab8d-5d55c0c8cc3f",
+      "0250a77f-34a0-4507-851d-b05dc6b57813",
+      "d47967df-58be-4b48-91a4-4f5d69c37cb6",
+      "ab93e144-cd5e-497a-b73d-e19498748bea",
+      "1e05349a-2f0f-4371-a4a7-d07105c8b155",
+      "99a9cd65-cabe-4b8b-8de2-065b6454246f",
+      "4e464bf5-5bd5-43c1-aa06-981a4702bd33",
+      "2bdbe868-f37a-496a-a920-f8a4bf24fe37",
+      "c8a6709c-e2dc-4ff9-865f-98ee1f42ae1a",
+      "78585870-7c0e-441e-9d62-9f63b0a688e1",
+      "d0a14130-9f1a-43a7-a6df-eb68d6dcc6b1",
+      "fd011f82-a02b-4d1d-bb45-52eb9bc8c614",
+      "aaaf71e3-a7d2-4e12-917d-a9237075784c",
+      "0b85bd89-84a1-40a0-8b1f-ad58e4737406",
+      "473a08a8-798c-4172-8a8e-b643b43b1c9d"
     ],
     "visible": false
   },
