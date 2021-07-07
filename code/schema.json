@@ -1,0 +1,32 @@
+[
+  {
+    "id": "/circle",
+    "metadata": {
+      "name": "circle"
+    }
+  },
+  {
+    "id": "/half-circle",
+    "metadata": {
+      "name": "half-circle"
+    }
+  },
+  {
+    "id": "/hexagon",
+    "metadata": {
+      "name": "hexagon"
+    }
+  },
+  {
+    "id": "/square",
+    "metadata": {
+      "name": "square"
+    }
+  },
+  {
+    "id": "/star",
+    "metadata": {
+      "name": "star"
+    }
+  }
+]
